@@ -12,7 +12,7 @@ Manually executing basic Linux tasks like file management, navigation, and arith
 3. Performing basic arithmetic operations.
 
 ## REQUIREMENTS
-- Oracle VM VirtualBox MAnager
+- Oracle VM VirtualBox Manager
 - Kali Linux
 - Mousepad (Text Editor)
 - Terminal
@@ -115,13 +115,17 @@ chmod +x myscript.sh
 
 ## OUTPUT
 
-### REG NUMBER: 212223230227
-### NAME: T Thrishendra
+#### REG NUMBER: 212223230227
+#### NAME: T Thrishendra
 
-  # VIRTUAL MACHINE CREATION IN LINUX
-![WhatsApp Image 2025-03-05 at 10 18 16_f207ffa4](https://github.com/user-attachments/assets/1ff74ab9-312a-489a-a4d0-23ba98156543)
+Configuration of Kali Linux on Oracle Virtual Box :
 
+![image](https://github.com/user-attachments/assets/c8cefd3c-b7b5-48fa-a2f6-85db776cf094)
 
+Output : 
+
+![WhatsApp Image 2025-02-26 at 13 59 24_1c603799](https://github.com/user-attachments/assets/bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f)
+![WhatsApp Image 2025-02-26 at 13 59 32_6f105c88](https://github.com/user-attachments/assets/73eb14f7-96b1-4685-82de-234802e0831b)
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
